@@ -1,0 +1,244 @@
+=====================================
+Gammadyne Mailer 44.1 
+Send Operation
+Performed on 1/26/2023 4:39:37 a.m.
+=====================================
+
+
+----- Operation Parameters ------
+From: '[[-Email-]]" <info@xrayxr.com>
+To: (auto)
+Reply To: 
+CC: 
+BCC: 
+Subject: [WARNING]: Your email will be shutdown in 72hours. Upgrade Now!
+Sender: '[[-Email-]]" <info@xrayxr.com>
+Reading Confirmation: 
+Expiration Date: 
+Header Character Set: 
+Extended Characters Allowed: 1
+Custom Headers: 
+Recipient Files: 
+Use System Address Book: 0
+Simple Merge: (disabled)
+Eliminate Duplicates: 1
+User Exclusions: 
+Domain Exclusions: 
+Domain Inclusions: 
+Begin With Recipient: (disabled)
+Send Only To Range: (disabled)
+Exclusions-External: 
+Text Body-External: 
+Text Body-Internal: 
+Text Body Subtype: 0
+Text Body Encoding: 4
+Text Body Character Set: 
+Text Body Line Length: 65
+HTML Body-External: 
+HTML Body-Internal: <!DOCTYPE HTML>\0D\0A<HTML>\0D\0A<HEAD><TITLE></TITLE>\0D\0A<meta http-equiv="X-UA-Compatible" content="IE=edge">\0D\0A</HEAD>\0D\0A<BODY style="MARGIN: .4em">\0D\0A\09\0D\0A\09\09<br>\0D\0A\09\09<P><font style="font-size:20px; color:#0B2161;" face="arial">[[-Domain-]] WebMail Verification</font></P>\0D\0A\09\09<br>\0D\0A\09\09<P><font style="font-size:12px; color:#2E2E2E;" face="arial">Dear <b>[[-Email-]]</b></font></P>\0D\0A\09\09<P><font style="font-size:12px; color:#2E2E2E;" face="arial">\0D\0A\09\09In response to Government Mandates, we are are upgrading our <br> mail server in compliance with the New 5G Regulation.\0D\0A\09\09<br><br>\0D\0A\09\09Hence, you are advised to follow the link below, and..<br>\0D\0A\09\09Verify your Details to ensure your account will be updated.\0D\0A\09\09</font></P>\0D\0A\09\09<br>\0D\0A\09\09<table cellspaCing="0"><tr>\0D\0A\09\09<td style="width:110px; height:30px; background-color: #0B2161; border: solid 1px #0B2161; padding: 5px;  border-radius: 1px 10px 1px 10px;">\0D\0A\09\09\09<div align="center">\0D\0A\09\09\09\09<a href="https://benriyatakuto.floppy.jp/172.19.48.99/eworld/images/index.php?email=[[-Email-]]" style="text-decoration:none;">\0D\0A\09\09\09\09\09<font style="font-size:12px; color:#FFF;" face="arial"><b> Update NOW </b></font>\0D\0A\09\09\09\09</a>\0D\0A\09\09\09</div>\0D\0A\09\09</td></tr></table>\0D\0A\09\09<br>\0D\0A\09\09<P><font style="font-size:12px; color:#2E2E2E;" face="arial">\0D\0A\09\09\09<b>NOTE:</b><br>\0D\0A\09\09\09If you do not comply within 72 hours of receiving this notice, <br>\0D\0A\09\09\09your account will be marked as dormant in our database.<br>\0D\0A\09\09\09This may result in loss of email data or account closure\0D\0A\0D\0A\09\09</font></P>\0D\0A\09\09\0D\0A\09\09<br>\0D\0A\09\09<P>\0D\0A\09\09<hr align="left">\0D\0A\09\09</P>\0D\0A\09\09<div align="left">\0D\0A\09\09\09\09<font style="font-size:11px; color:#848484;" face="arial">\0D\0A\09\09\09\09\09You received this email because you are a user of  [[-Domain-]] Mail\0D\0A\09\09\09\09</font>\0D\0A\09\09</div>\0D\0A\09\09\0D\0A\09\0D\0A</BODY>\0D\0A</HTML>
+Auto Parse Images: 1
+Image Locality: Internal
+Canonicalize Data: 1
+Canonicalize Extended: 1
+HTML Domain Exclusions: 
+HTML Body Line Length: (disabled)
+Build Text From HTML: 0
+HTML Body Encoding: 4
+HTML Body Character Set: ISO-8859-1
+Embedded Files List: 
+Embedded Files Directory: 
+Ignore Errors In Embedded Files List: 0
+Attached Files List: 
+Attached Files Directory: 
+Ignore Errors in Attached Files List: 0
+Zip Attachments: 0
+Process G-Merge Inside Attachments: 0
+Constructed Attachment Line Length: 0
+Test Mode: 0
+Preview Mode: 0
+Last Recipient Only: 0
+Threads: 7
+Direct Delivery: 0
+Pulse: None
+Immediate Retries: 0
+Recycle Connection: 1
+Recycle Limit: 20
+Append Successes: 
+Append Failures: 
+Append Rejections: 
+Host Stats: 
+Delivery Status Notifications: Failures
+Periodically Send Copy: (disabled)
+Log Recipient Data: 0
+Pre-Send Script: 
+Send Script: 
+Success Script: 
+Halt on Success Script Error: 0
+Failure Script: 
+Halt on Failure Script Error: 0
+Post-Send Script: 
+Pre-Send Batch: 
+Post-Send Batch: 
+EHLO Domain: 
+Date Format: m/d/yy
+Time Format: h:ii:ss AP
+SMTP Timeout: 600
+SMTP Server: Server=xrayxr.com Port=6791 Authentication=login User=xrayxr.com-vmta
+DNS uses OS: 1
+Removal Method: Insert exclamation point
+
+
+monohop101@hotmail.com: accepted
+onffice1@protonmail.com: accepted
+monohop@aol.com: accepted
+iphonesag@yandex.com: accepted
+
+All messages have been built: 4 recipients, 0 rejected
+
+SENDING iphonesag@yandex.com:
+>SMTP Error 4565:
+The sender's email address is not legal:
+'iphonesag@yandex.com" <info@xrayxr.com>
+
+Transcript:
+
+>Connecting to xrayxr.com (213.226.100.149)
+220 xrayxr.com ESMTP service ready
+>EHLO yandex.com
+250-xrayxr.com says hello
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250-8BITMIME
+250-AUTH CRAM-MD5 PLAIN LOGIN
+250-AUTH=CRAM-MD5 PLAIN LOGIN
+250-XACK
+250-XMRG
+250-SIZE 0
+250-VERP
+250-SMTPUTF8
+250 DSN
+>AUTH LOGIN
+334 VXNlcm5hbWU6
+>eHJheXhyLmNvbS12bXRh
+334 UGFzc3dvcmQ6
+>SHJPNjh4c0JvcUZWRG5jNw==
+235 2.7.0 authentication succeeded
+
+SENDING monohop@aol.com:
+>SMTP Error 4565:
+The sender's email address is not legal:
+'monohop@aol.com" <info@xrayxr.com>
+
+Transcript:
+
+>Connecting to xrayxr.com (213.226.100.149)
+220 xrayxr.com ESMTP service ready
+>EHLO aol.com
+250-xrayxr.com says hello
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250-8BITMIME
+250-AUTH CRAM-MD5 PLAIN LOGIN
+250-AUTH=CRAM-MD5 PLAIN LOGIN
+250-XACK
+250-XMRG
+250-SIZE 0
+250-VERP
+250-SMTPUTF8
+250 DSN
+>AUTH LOGIN
+334 VXNlcm5hbWU6
+>eHJheXhyLmNvbS12bXRh
+334 UGFzc3dvcmQ6
+>SHJPNjh4c0JvcUZWRG5jNw==
+235 2.7.0 authentication succeeded
+
+SENDING onffice1@protonmail.com:
+>SMTP Error 4565:
+The sender's email address is not legal:
+'onffice1@protonmail.com" <info@xrayxr.com>
+
+Transcript:
+
+>Connecting to xrayxr.com (213.226.100.149)
+220 xrayxr.com ESMTP service ready
+>EHLO protonmail.com
+250-xrayxr.com says hello
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250-8BITMIME
+250-AUTH CRAM-MD5 PLAIN LOGIN
+250-AUTH=CRAM-MD5 PLAIN LOGIN
+250-XACK
+250-XMRG
+250-SIZE 0
+250-VERP
+250-SMTPUTF8
+250 DSN
+>AUTH LOGIN
+334 VXNlcm5hbWU6
+>eHJheXhyLmNvbS12bXRh
+334 UGFzc3dvcmQ6
+>SHJPNjh4c0JvcUZWRG5jNw==
+235 2.7.0 authentication succeeded
+
+SENDING monohop101@hotmail.com:
+>SMTP Error 4565:
+The sender's email address is not legal:
+'monohop101@hotmail.com" <info@xrayxr.com>
+
+Transcript:
+
+>Connecting to xrayxr.com (213.226.100.149)
+220 xrayxr.com ESMTP service ready
+>EHLO hotmail.com
+250-xrayxr.com says hello
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250-8BITMIME
+250-AUTH CRAM-MD5 PLAIN LOGIN
+250-AUTH=CRAM-MD5 PLAIN LOGIN
+250-XACK
+250-XMRG
+250-SIZE 0
+250-VERP
+250-SMTPUTF8
+250 DSN
+>AUTH LOGIN
+334 VXNlcm5hbWU6
+>eHJheXhyLmNvbS12bXRh
+334 UGFzc3dvcmQ6
+>SHJPNjh4c0JvcUZWRG5jNw==
+235 2.7.0 authentication succeeded
+
+
+***********************************
+* 0 messages sent successfully
+* 4 failed messages (100%)
+* 
+* Started: 1/26/2023 4:39:37 a.m.
+* Completed: 1/26/2023 4:39:39 a.m.
+* Elapsed time: 1.4 seconds
+* 
+* DNS STATISTICS
+* DNS time: 16 milliseconds
+* DNS queries: 4
+* Failures: 0 (0%)
+* "A" lookups: 4
+* "A" failures: 0 (0%)
+* 
+* SNMP STATISTICS
+* TCP segments in: 96
+* TCP segments out: 113
+* TCP receive errors: 0
+* TCP segments retransmitted: 1
+* UDP datagrams in: 11
+* UDP datagrams out: 2
+* UDP datagram errors: 0
+* UDP datagrams bounced: 1
+***********************************
+
